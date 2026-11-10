@@ -1,35 +1,19 @@
 # Mathias Gaudicheau
 
-**AI & content creation.** I help small business owners free up hours every week with AI, whether they are already advanced or complete beginners.
+**Je construis avec l'IA des systèmes automatisés qui me font gagner des heures chaque semaine.** Aujourd'hui pour mes propres projets, demain pour accompagner les dirigeants de TPE et PME.
 
-I am not a developer by training. I build real tools with AI coding agents, mostly Claude Code: I write the brief, set the guardrails, test the result, and keep the final say on quality and security. AI is a multiplier, not a replacement: the more value your work already has, the more AI amplifies it.
+Pas développeur de formation, je me suis formé en autodidacte et je construis aujourd'hui des outils et des workflows personnalisés grâce à Claude Code. Je crée, teste et ajuste, en gardant toujours le dernier mot sur la qualité et la sécurité.
 
-[Version française](https://github.com/mathias-gaudicheau/mathias-gaudicheau/blob/main/README.fr.md)
+**Ma conviction :** l'IA n'est pas une solution miracle, c'est un multiplicateur. Elle amplifie votre travail, vos idées et vos compétences, elle ne les remplace pas. Si vous n'êtes pas créatif, elle ne vous rendra pas créatif. Et si vous n'avez pas d'idées, elle ne les trouvera pas pour vous.
 
-## How I work with AI
+## Mon parcours
 
-- **The tool prepares, a human decides.** None of my tools post, apply or send anything on their own.
-- **Rules before code.** Every project starts from a written brief and a short list of non-negotiable guardrails the agent must follow. They live in the repository, next to the code (`CLAUDE.md`, `AGENTS.md`), so you can see exactly how the work was steered.
-- **Tests as contracts.** In Le Cercle, every game rule is numbered and the build fails if a rule has no test.
-- **Measure, then claim.** I only put a number on something once it has actually run.
+- **ContendrzMMA** (2025 à aujourd'hui). Une chaîne YouTube dédiée au MMA que j'ai créée moi-même, de 0 à 16k abonnés et 2,8M de vues. Je gère tout de A à Z, et j'ai développé mes propres outils autour : MCP YouTube Studio personnalisé, skills automatisés pour assister ma production, ou encore briefs d'actus quotidiens et hebdomadaires.
+- **Trésors de l'Hexagone** (2023 à 2024). Un projet entrepreneurial mettant en valeur l'artisanat français à travers des reportages vidéo, avec un site que j'ai moi-même optimisé pour le SEO. Testé, mesuré, puis arrêté après une analyse de viabilité.
+- **Agence Homère** (2021). Assistant chef de projet dans une agence de publicité et communication.
+- **Master 2 Business Development**, Toulouse School of Management (2024).
 
-## Selected projects
-
-| Project | What it is | Built with |
-|---|---|---|
-| **Job search assistant** *(coming soon)* | Self-hosted dashboard: multi-source job watch scored out of 100 by code, application pipeline, tailored one-page CVs. An AI agent interviews you to set it up. It never applies for you. | Next.js, Supabase, Claude Code |
-| **claude-comex** *(coming soon)* | A multi-agent "executive committee" for high-stakes decisions: independent blind positions, safeguards against sycophancy, a verdict computed by script, dated post-mortems. | Claude Code skills, Python |
-| **ai-coach** *(coming soon)* | My personal AI learning app: short lessons, AI-graded exercises, spaced repetition, and retention measured at 90 days. | Next.js, tRPC, Drizzle |
-| **Le Cercle** *(coming soon)* | Party games played from your phone with a four-letter code, no account. The real-time server holds the truth and sends each player only what they are allowed to see. | Next.js, Cloudflare Durable Objects |
-
-## Background
-
-- **ContendrzMMA** (2025 to today). An MMA YouTube channel I built on my own, from 0 to 15,000+ subscribers and 2.6M+ views, covering strategy, scripting, editing and analytics. I also built the AI tooling around it, including an MCP server on the YouTube APIs and automated daily and weekly briefs.
-- **Trésors de l'Hexagone** (2023 to 2024). An entrepreneurial project showcasing French craftsmanship through video reports, with a website I optimized for SEO myself. Tested, measured, then stopped after a viability analysis.
-- **Agence Homère** (2021). Assistant project manager in an advertising and communication agency.
-- **MSc Strategic Business Development**, Toulouse School of Management (2024).
-
-French native, English C1 (TOEIC 955). Based in Toulouse, France.
+Français natif, anglais C1 (TOEIC 955). Basé à Toulouse, en France.
 
 ## Contact
 
